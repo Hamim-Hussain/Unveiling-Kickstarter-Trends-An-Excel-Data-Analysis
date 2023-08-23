@@ -8,4 +8,6 @@ Diving into 4,000 past Kickstarter projects, I aim to unveil trends and patterns
 Within the Resources folder:
 * CrowdfundingBook.xlsx
 
+## Findings
 
+## Conclusion
