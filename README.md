@@ -24,6 +24,7 @@ Within the Resources folder:
 
 
 ![4](images/4.JPG)
+
 4. If you look at the min and max values for both successful and unsuccessful, there is a massive range meaning that they are outliers. Because we used these outliers to calculate the mean, this would give us an inccurate result. So, the median best represents this data as it is a more exceptable value and is closer to 'most' of the dataset.
 5. We can see that there is more varability with the successful campaigns based on the variance (how far the data is from the mean) and the standard deviation (how spread the data is from the mean). This distinction can be explained by the fact successful campaigns typically succeed as a result of a large number of backers who made sufficient pledges for campaigns to succeed. On the other side,  unsuccessful campaigns frequently had a low number of backers or none at all. Additionally, due to their huge backer counts, successful projects frequently surpass their objectives, however there are considerable differences amongst campaigns. As a result, almost all unsuccessful projects have a low backer count with little variance between campaigns, while many successful campaigns succeeded not just because they had more ambitious or realistic aims.
 
